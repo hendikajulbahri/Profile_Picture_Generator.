@@ -1,0 +1,26 @@
+body{
+    background-color: aqua;
+}
+
+.grid{
+    display: grid;
+    /* background-color: yellow; */
+    padding-top: 50px;
+}
+
+/* .satu{
+    border: 2px solid white;
+    padding: 10px;
+    border-radius: 70px;
+    background-color: white; 
+} */
+
+img{
+    padding-top: 20px;
+    border-radius: 150px;
+    background-color: antiquewhite;
+}
+
+.gambar{
+    padding-top: 20px;
+}
